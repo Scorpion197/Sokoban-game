@@ -5,3 +5,4 @@ This is my implementation of Sokoban game with the C language.
 
 # Requirements
 - SDL 1.2
+- SDL image 1.2
